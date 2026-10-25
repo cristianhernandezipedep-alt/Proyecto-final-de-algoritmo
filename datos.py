@@ -8,7 +8,7 @@ from openpyxl import Workbook, load_workbook
 ARCHIVO = os.path.join(os.path.dirname(os.path.abspath(__file__)), "Inventario.xlsx")
 
 CORREO_USUARIO = "cristianhernandez.ipedep@gmail.com"
-CORREO_CLAVE = "vidr ffgq stli itmp"
+CORREO_CLAVE = ""
 CORREO_COORDINADOR = "erickorellana412@gmail.com"
 
 COLUMNAS = {
